@@ -40,3 +40,5 @@ DROP column phone
 
 */
 
+DROP table persons
+
